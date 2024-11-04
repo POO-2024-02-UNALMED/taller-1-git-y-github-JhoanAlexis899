@@ -1,0 +1,1 @@
+Cuando cree la carpeta "archivos" no apareció algún cambio para subir, porque las carpetas vacías no cuentan como cambio.
