@@ -1,2 +1,6 @@
 Jhoan Alexis Rúa García, 19 años.
 Aspiro a entender de manera profunda los conceptos asociados a POO, para desarrollar una aplicación muy completa en conjunto con mis compañeros.
+
+puedo subir los cambios porque la carpeta archivos no esta vacia.
+
+Hay que tener cuidado al modificar archivos desde diferentes ubicaciones porque al momento de traer los cambios podriamos tener dos versiones de un mismo archivo, lo que generaria un conflicto.
